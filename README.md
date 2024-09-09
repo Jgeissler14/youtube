@@ -14,3 +14,5 @@ az login
 tf apply
 ```
 
+## Infrastructure
+![ADF](./adf_demo.png)
